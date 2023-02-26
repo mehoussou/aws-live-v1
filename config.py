@@ -11,7 +11,7 @@ customhost = "employeedb.ck9zemzq2vpd.us-west-2.rds.amazonaws.com"
 
 #username and pwd
 customuser = "admin"
-custompass = "marceladmin"
+custompass = "xxxxxxx"
 
 #database
 customdb = "employee"
